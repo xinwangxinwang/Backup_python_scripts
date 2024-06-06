@@ -1,2 +1,2 @@
 # Backup_python_scripts
-To ensure you can trace back modifications that correspond to specific results, back up all Python code used into the results folder.
+When experimenting with model designs and configurations, it's easy to lose track of changes, especially after several days. Often, not all variations can be captured in the config files or hyperparameterized due to time constraints. To ensure you can trace back modifications that correspond to specific results, back up all Python code used into the results folder. This approach helps manage model development and numerous experiments effectively.
