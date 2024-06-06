@@ -86,9 +86,6 @@ print("Running script1...")
 ```
 
 ```python
-# package1/script1.py
-import package3.script3  # Additional imports
-
 # package2/script2.py
 import package4.script4  # Additional imports
 
